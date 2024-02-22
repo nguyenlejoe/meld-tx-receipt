@@ -36,7 +36,7 @@ export const TXProvider: React.FC<TXProviderProps> = ({ children }) => {
   return (
     <GoldRushProvider
       apikey={COVALENT_API_KEY ? COVALENT_API_KEY : ""}
-      mode={mode}
+      mode={"dark"}
       color={color}
       border_radius={borderRadius}
     >

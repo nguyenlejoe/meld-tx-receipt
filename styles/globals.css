@@ -74,9 +74,20 @@
   * {
     @apply border-border;
   }
-  body {
+  /* body {
     @apply bg-background text-foreground;
     font-feature-settings: "rlig" 1, "calt" 1;
-  }
+  } */
 }
 
+body{
+  background-color: rgb(18, 18, 18)!important;
+}
+
+.bg-accent{
+  background-color: rgb(229, 27, 68);
+}
+
+.grk-receipt > section{
+  background-color: #252630;
+}

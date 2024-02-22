@@ -39,7 +39,7 @@ export function SiteHeader() {
                 <span className="sr-only">Settings</span>
               </div>
             </Link>
-            <ThemeToggle />
+            {/* <ThemeToggle /> */}
           </nav>
         </div>
       </div>
