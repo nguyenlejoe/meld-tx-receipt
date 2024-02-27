@@ -40,3 +40,77 @@ export const poweredCovalent = (
     </defs>
   </svg>
 )
+
+export const MELD = (
+  <svg
+    width="80"
+    height="80"
+    viewBox="0 0 250 250"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M124.86 229.72C182.773 229.72 229.72 182.773 229.72 124.86C229.72 66.9475 182.773 20 124.86 20C66.9475 20 20 66.9475 20 124.86C20 182.773 66.9475 229.72 124.86 229.72Z"
+      fill="url(#paint0_linear_15614_34154)"
+    />
+    <path
+      fill-rule="evenodd"
+      clip-rule="evenodd"
+      d="M172.031 116.086L159.251 79.8242C158.603 78.1097 157.448 76.6333 155.94 75.5914C154.432 74.5494 152.643 73.9913 150.809 73.9913H150.77C146.943 73.9913 143.568 76.2851 142.323 79.7846L124.817 129.928L107.299 79.7846C105.989 76.272 102.613 73.9519 98.8581 73.9847H98.8121C96.9747 73.9684 95.1769 74.5207 93.6658 75.5662C92.1546 76.6116 91.0035 78.0989 90.3708 79.8242L77.6499 116.099H65.3944C60.4529 116.099 56.4551 119.94 56.4551 124.672C56.4551 129.403 60.4529 133.237 65.3879 133.237H71.6467L64.4638 153.632C62.9106 158.109 65.3944 162.965 70.0607 164.499C70.9782 164.8 71.9416 164.957 72.905 164.971C76.6406 164.971 80.1074 162.71 81.3529 159.131L98.9496 109.205L116.37 159.21C117.68 162.723 121.055 165.043 124.811 165.003C128.631 165.003 132.007 162.703 133.252 159.203L150.672 109.198L168.268 159.171C169.829 163.646 174.888 166.078 179.607 164.545C184.267 163.05 186.803 158.187 185.203 153.672L178.06 133.263H184.325C189.26 133.263 193.258 129.429 193.258 124.698C193.258 119.966 189.26 116.126 184.325 116.126L172.024 116.086H172.031Z"
+      fill="white"
+    />
+    <path
+      fill-rule="evenodd"
+      clip-rule="evenodd"
+      d="M141.974 80.7656L130.151 114.596L139.909 140.07L150.664 109.189L142.145 85.2222C141.671 83.7821 141.61 82.2383 141.967 80.7656H141.974Z"
+      fill="url(#paint1_linear_15614_34154)"
+    />
+    <path
+      fill-rule="evenodd"
+      clip-rule="evenodd"
+      d="M90.118 80.5312L78.21 114.48L88.0535 140.092L98.9525 109.171L90.2887 85.0076C89.8658 83.7091 89.7755 82.3255 90.0266 80.9833L90.1116 80.5312H90.118Z"
+      fill="url(#paint2_linear_15614_34154)"
+    />
+    <defs>
+      <linearGradient
+        id="paint0_linear_15614_34154"
+        x1="37.1336"
+        y1="175.848"
+        x2="213.784"
+        y2="73.1965"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop offset="0.018" stop-color="#CB1A4F" />
+        <stop offset="0.415" stop-color="#E51B44" />
+      </linearGradient>
+      <linearGradient
+        id="paint1_linear_15614_34154"
+        x1="130.245"
+        y1="114.448"
+        x2="152.583"
+        y2="106.12"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop stop-color="#E51B44" stop-opacity="0" />
+        <stop offset="0.046" stop-color="#E51B44" stop-opacity="0.049" />
+        <stop offset="0.127" stop-color="#E51B44" stop-opacity="0.178" />
+        <stop offset="0.206" stop-color="#E51B44" stop-opacity="0.33" />
+        <stop offset="0.526" stop-color="#E51B44" />
+      </linearGradient>
+      <linearGradient
+        id="paint2_linear_15614_34154"
+        x1="78.3056"
+        y1="114.36"
+        x2="100.855"
+        y2="105.894"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop stop-color="#E51B44" stop-opacity="0" />
+        <stop offset="0.046" stop-color="#E51B44" stop-opacity="0.049" />
+        <stop offset="0.127" stop-color="#E51B44" stop-opacity="0.178" />
+        <stop offset="0.206" stop-color="#E51B44" stop-opacity="0.33" />
+        <stop offset="0.526" stop-color="#E51B44" />
+      </linearGradient>
+    </defs>
+  </svg>
+)
