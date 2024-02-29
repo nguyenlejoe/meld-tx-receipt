@@ -17,7 +17,7 @@ export default function TX({
 
   return (
     <div className="w-full flex items-center flex-col gap-4 grk-receipt">
-      <div className="w-full min-h-[40rem] relative md:w-[50rem]">
+      <div className="w-full min-h-[40rem] relative md:w-[50rem] md:flex-row">
         <div className="absolute right-5 top-[3rem]">{MELD}</div>
         <TransactionReceiptView
           chain_name={params.chain}
