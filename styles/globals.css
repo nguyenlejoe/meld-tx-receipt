@@ -80,14 +80,14 @@
   } */
 }
 
-body{
-  background-color: rgb(18, 18, 18)!important;
+body {
+  background-color: rgb(18, 18, 18) !important;
 }
 
-.bg-accent{
+.bg-accent {
   background-color: rgb(229, 27, 68);
 }
 
-.grk-receipt > section{
+.grk-receipt > section {
   background-color: #252630;
 }
